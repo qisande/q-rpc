@@ -40,14 +40,14 @@ QRPC 项目允许一个程序（称为服务消费者）像调用自己程序的
 ## 文件结构
 
 ```
-├── example-common				 # 公共模块
-├── example-consumer			 # 消费者（测试用）
-├── example-provider			 # 提供者（测试用）
-├── example-springboot-consumer  # 基于 springboot 的消费者 （测试用）
-├── example-springboot-provider  # 基于 springboot 的提供者（测试用）
-├── q-rpc-core					 # RPC 框架
-├── q-rpc-easy					 # 简易的 RPC 框架
-└── q-rpc-spring-boot-starter    # RPC 框架的启动器
+├── example-common              # 公共模块
+├── example-consumer            # 消费者（测试用）
+├── example-provider            # 提供者（测试用）
+├── example-springboot-consumer # 基于 springboot 的消费者 （测试用）
+├── example-springboot-provider # 基于 springboot 的提供者（测试用）
+├── q-rpc-core                  # RPC 框架
+├── q-rpc-easy                  # 简易的 RPC 框架
+└── q-rpc-spring-boot-starter   # RPC 框架的启动器
 ```
 
 ## 快速开始
