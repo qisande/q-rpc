@@ -1,0 +1,4 @@
+failBack=com.qisande.yurpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.qisande.yurpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.qisande.yurpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.qisande.yurpc.fault.tolerant.FailSafeTolerantStrategy

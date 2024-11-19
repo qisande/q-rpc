@@ -1,0 +1,4 @@
+jdk=com.qisande.yurpc.serializer.JdkSerializer
+hessian=com.qisande.yurpc.serializer.HessianSerializer
+json=com.qisande.yurpc.serializer.JsonSerializer
+kryo=com.qisande.yurpc.serializer.KryoSerializer

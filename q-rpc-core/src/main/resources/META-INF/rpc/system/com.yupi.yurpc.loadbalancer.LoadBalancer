@@ -1,0 +1,3 @@
+roundRobin=com.qisande.yurpc.loadbalancer.RoundRobinLoadBalancer
+random=com.qisande.yurpc.loadbalancer.RandomLoadBalancer
+consistentHash=com.qisande.yurpc.loadbalancer.ConsistentHashLoadBalancer
