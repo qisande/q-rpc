@@ -1,4 +1,4 @@
-package com.qisande.yurpc.protocol;
+package com.qisande.qrpc.protocol;
 
 import lombok.Getter;
 

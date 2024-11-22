@@ -1,6 +1,6 @@
-package com.qisande.yurpc.registry;
+package com.qisande.qrpc.registry;
 
-import com.qisande.yurpc.model.ServiceMetaInfo;
+import com.qisande.qrpc.model.ServiceMetaInfo;
 
 import java.util.List;
 import java.util.Map;

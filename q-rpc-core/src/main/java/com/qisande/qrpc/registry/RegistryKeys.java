@@ -1,4 +1,4 @@
-package com.qisande.yurpc.registry;
+package com.qisande.qrpc.registry;
 
 /**
  * @author qisan

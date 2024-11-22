@@ -1,4 +1,4 @@
-package com.qisande.yurpc.utils;
+package com.qisande.qrpc.utils;
 
 import cn.hutool.core.util.StrUtil;
 import cn.hutool.setting.dialect.Props;

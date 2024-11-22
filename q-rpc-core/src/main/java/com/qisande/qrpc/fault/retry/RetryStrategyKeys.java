@@ -1,4 +1,4 @@
-package com.qisande.yurpc.fault.retry;
+package com.qisande.qrpc.fault.retry;
 
 /**
  * @author qisan

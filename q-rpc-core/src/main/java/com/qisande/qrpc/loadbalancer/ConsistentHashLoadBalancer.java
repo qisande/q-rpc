@@ -1,8 +1,8 @@
-package com.qisande.yurpc.loadbalancer;
+package com.qisande.qrpc.loadbalancer;
 
 import cn.hutool.core.lang.hash.Hash32;
 import cn.hutool.core.util.HashUtil;
-import com.qisande.yurpc.model.ServiceMetaInfo;
+import com.qisande.qrpc.model.ServiceMetaInfo;
 
 import java.util.List;
 import java.util.Map;

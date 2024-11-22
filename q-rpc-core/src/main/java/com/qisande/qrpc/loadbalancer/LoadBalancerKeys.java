@@ -1,4 +1,4 @@
-package com.qisande.yurpc.loadbalancer;
+package com.qisande.qrpc.loadbalancer;
 
 /**
  * @author qisan

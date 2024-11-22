@@ -1,4 +1,4 @@
-package com.qisande.yurpc.constant;
+package com.qisande.qrpc.constant;
 
 /**
  * @author qisan

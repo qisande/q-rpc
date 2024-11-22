@@ -1,12 +1,12 @@
-package com.qisande.yurpc.registry;
+package com.qisande.qrpc.registry;
 
 import cn.hutool.core.collection.CollUtil;
 import cn.hutool.core.collection.ConcurrentHashSet;
 import cn.hutool.cron.CronUtil;
 import cn.hutool.cron.task.Task;
 import cn.hutool.json.JSONUtil;
-import com.qisande.yurpc.config.RegistryConfig;
-import com.qisande.yurpc.model.ServiceMetaInfo;
+import com.qisande.qrpc.config.RegistryConfig;
+import com.qisande.qrpc.model.ServiceMetaInfo;
 import io.etcd.jetcd.*;
 import io.etcd.jetcd.options.GetOption;
 import io.etcd.jetcd.options.PutOption;

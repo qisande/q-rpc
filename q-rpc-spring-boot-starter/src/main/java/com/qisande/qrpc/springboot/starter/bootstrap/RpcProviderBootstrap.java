@@ -1,13 +1,13 @@
-package com.qisande.yurpc.springboot.starter.bootstrap;
+package com.qisande.qrpc.springboot.starter.bootstrap;
 
-import com.qisande.yurpc.RpcApplication;
-import com.qisande.yurpc.config.RegistryConfig;
-import com.qisande.yurpc.config.RpcConfig;
-import com.qisande.yurpc.model.ServiceMetaInfo;
-import com.qisande.yurpc.registry.LocalRegistry;
-import com.qisande.yurpc.registry.Registry;
-import com.qisande.yurpc.registry.RegistryFactory;
-import com.qisande.yurpc.springboot.starter.annotation.RpcService;
+import com.qisande.qrpc.RpcApplication;
+import com.qisande.qrpc.config.RegistryConfig;
+import com.qisande.qrpc.config.RpcConfig;
+import com.qisande.qrpc.model.ServiceMetaInfo;
+import com.qisande.qrpc.registry.LocalRegistry;
+import com.qisande.qrpc.registry.Registry;
+import com.qisande.qrpc.registry.RegistryFactory;
+import com.qisande.qrpc.springboot.starter.annotation.RpcService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;

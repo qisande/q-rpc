@@ -1,2 +1,2 @@
-etcd=com.qisande.yurpc.registry.EtcdRegistry
-zookeeper=com.qisande.yurpc.registry.ZooKeeperRegistry
+etcd=com.qisande.qrpc.registry.EtcdRegistry
+zookeeper=com.qisande.qrpc.registry.ZooKeeperRegistry

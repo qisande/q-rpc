@@ -1,4 +1,4 @@
-package com.qisande.yurpc.exception;
+package com.qisande.qrpc.exception;
 
 /**
  * @author qisan

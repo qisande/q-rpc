@@ -1,9 +1,9 @@
-package com.qisande.yurpc.config;
+package com.qisande.qrpc.config;
 
-import com.qisande.yurpc.fault.retry.RetryStrategyKeys;
-import com.qisande.yurpc.fault.tolerant.TolerantStrategyKeys;
-import com.qisande.yurpc.loadbalancer.LoadBalancerKeys;
-import com.qisande.yurpc.serializer.SerializerKeys;
+import com.qisande.qrpc.fault.retry.RetryStrategyKeys;
+import com.qisande.qrpc.fault.tolerant.TolerantStrategyKeys;
+import com.qisande.qrpc.loadbalancer.LoadBalancerKeys;
+import com.qisande.qrpc.serializer.SerializerKeys;
 import lombok.Data;
 
 /**

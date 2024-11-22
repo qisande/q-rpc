@@ -2,7 +2,7 @@ package com.qisande.examplespringbootconsumer;
 
 import com.qisande.example.common.model.User;
 import com.qisande.example.common.service.UserService;
-import com.qisande.yurpc.springboot.starter.annotation.RpcReference;
+import com.qisande.qrpc.springboot.starter.annotation.RpcReference;
 import org.springframework.stereotype.Service;
 
 /**
@@ -24,7 +24,7 @@ public class ExampleServiceImpl {
      */
     public void test() {
         User user = new User();
-        user.setName("yupi");
+        user.setName("qisande");
         User resultUser = userService.getUser(user);
         System.out.println(resultUser.getName());
     }

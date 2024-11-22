@@ -1,8 +1,8 @@
-package com.qisande.yurpc.registry;
+package com.qisande.qrpc.registry;
 
 import cn.hutool.core.collection.ConcurrentHashSet;
-import com.qisande.yurpc.config.RegistryConfig;
-import com.qisande.yurpc.model.ServiceMetaInfo;
+import com.qisande.qrpc.config.RegistryConfig;
+import com.qisande.qrpc.model.ServiceMetaInfo;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.CuratorFrameworkFactory;

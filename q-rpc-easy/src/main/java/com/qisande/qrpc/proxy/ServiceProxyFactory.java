@@ -1,4 +1,4 @@
-package com.qisande.yurpc.proxy;
+package com.qisande.qrpc.proxy;
 
 import java.lang.reflect.Proxy;
 

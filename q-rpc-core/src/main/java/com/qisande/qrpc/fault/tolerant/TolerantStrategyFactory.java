@@ -1,6 +1,6 @@
-package com.qisande.yurpc.fault.tolerant;
+package com.qisande.qrpc.fault.tolerant;
 
-import com.qisande.yurpc.spi.SpiLoader;
+import com.qisande.qrpc.spi.SpiLoader;
 
 /**
  * @author qisan

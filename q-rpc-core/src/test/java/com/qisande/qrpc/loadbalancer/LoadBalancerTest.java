@@ -1,6 +1,6 @@
-package com.qisande.yurpc.loadbalancer;
+package com.qisande.qrpc.loadbalancer;
 
-import com.qisande.yurpc.model.ServiceMetaInfo;
+import com.qisande.qrpc.model.ServiceMetaInfo;
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -33,7 +33,7 @@ public class LoadBalancerTest {
         ServiceMetaInfo serviceMetaInfo2 = new ServiceMetaInfo();
         serviceMetaInfo2.setServiceName("myService");
         serviceMetaInfo2.setServiceVersion("1.0");
-        serviceMetaInfo2.setServiceHost("yupi.icu");
+        serviceMetaInfo2.setServiceHost("qisande.icu");
         serviceMetaInfo2.setServicePort(80);
         List<ServiceMetaInfo> serviceMetaInfoList = Arrays.asList(serviceMetaInfo1, serviceMetaInfo2);
         // 连续调用 3 次

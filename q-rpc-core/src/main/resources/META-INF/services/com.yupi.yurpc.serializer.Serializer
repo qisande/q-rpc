@@ -1,1 +1,1 @@
-com.qisande.yurpc.serializer.JdkSerializer
+com.qisande.qrpc.serializer.JdkSerializer

@@ -1,11 +1,11 @@
-package com.qisande.yurpc;
+package com.qisande.qrpc;
 
-import com.qisande.yurpc.config.RegistryConfig;
-import com.qisande.yurpc.config.RpcConfig;
-import com.qisande.yurpc.constant.RpcConstant;
-import com.qisande.yurpc.registry.Registry;
-import com.qisande.yurpc.registry.RegistryFactory;
-import com.qisande.yurpc.utils.ConfigUtils;
+import com.qisande.qrpc.config.RegistryConfig;
+import com.qisande.qrpc.config.RpcConfig;
+import com.qisande.qrpc.constant.RpcConstant;
+import com.qisande.qrpc.registry.Registry;
+import com.qisande.qrpc.registry.RegistryFactory;
+import com.qisande.qrpc.utils.ConfigUtils;
 import lombok.extern.slf4j.Slf4j;
 
 /**

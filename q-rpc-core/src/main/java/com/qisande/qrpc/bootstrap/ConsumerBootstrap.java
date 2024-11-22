@@ -1,6 +1,6 @@
-package com.qisande.yurpc.bootstrap;
+package com.qisande.qrpc.bootstrap;
 
-import com.qisande.yurpc.RpcApplication;
+import com.qisande.qrpc.RpcApplication;
 
 /**
  * @author qisan

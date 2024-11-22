@@ -1,4 +1,4 @@
-package com.qisande.yurpc.serializer;
+package com.qisande.qrpc.serializer;
 
 import java.io.IOException;
 

@@ -1,7 +1,7 @@
-package com.qisande.yurpc.springboot.starter.bootstrap;
+package com.qisande.qrpc.springboot.starter.bootstrap;
 
-import com.qisande.yurpc.proxy.ServiceProxyFactory;
-import com.qisande.yurpc.springboot.starter.annotation.RpcReference;
+import com.qisande.qrpc.proxy.ServiceProxyFactory;
+import com.qisande.qrpc.springboot.starter.annotation.RpcReference;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;
 

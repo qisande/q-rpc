@@ -1,4 +1,4 @@
-package com.qisande.yurpc.fault.tolerant;
+package com.qisande.qrpc.fault.tolerant;
 
 /**
  * @author qisan

@@ -1,8 +1,8 @@
-package com.qisande.yurpc.serializer;
+package com.qisande.qrpc.serializer;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.qisande.yurpc.model.RpcRequest;
-import com.qisande.yurpc.model.RpcResponse;
+import com.qisande.qrpc.model.RpcRequest;
+import com.qisande.qrpc.model.RpcResponse;
 
 import java.io.IOException;
 

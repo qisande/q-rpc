@@ -1,8 +1,8 @@
-package com.qisande.yurpc.registry;
+package com.qisande.qrpc.registry;
 
-import com.qisande.yurpc.serializer.JdkSerializer;
-import com.qisande.yurpc.serializer.Serializer;
-import com.qisande.yurpc.spi.SpiLoader;
+import com.qisande.qrpc.serializer.JdkSerializer;
+import com.qisande.qrpc.serializer.Serializer;
+import com.qisande.qrpc.spi.SpiLoader;
 
 /**
  * @author qisan

@@ -2,7 +2,7 @@ package com.qisande.examplespringbootprovider;
 
 import com.qisande.example.common.model.User;
 import com.qisande.example.common.service.UserService;
-import com.qisande.yurpc.springboot.starter.annotation.RpcService;
+import com.qisande.qrpc.springboot.starter.annotation.RpcService;
 import org.springframework.stereotype.Service;
 
 /**

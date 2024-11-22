@@ -1,6 +1,6 @@
-package com.qisande.yurpc.fault.tolerant;
+package com.qisande.qrpc.fault.tolerant;
 
-import com.qisande.yurpc.model.RpcResponse;
+import com.qisande.qrpc.model.RpcResponse;
 
 import java.util.Map;
 

@@ -1,2 +1,2 @@
-no=com.qisande.yurpc.fault.retry.NoRetryStrategy
-fixedInterval=com.qisande.yurpc.fault.retry.FixedIntervalRetryStrategy
+no=com.qisande.qrpc.fault.retry.NoRetryStrategy
+fixedInterval=com.qisande.qrpc.fault.retry.FixedIntervalRetryStrategy

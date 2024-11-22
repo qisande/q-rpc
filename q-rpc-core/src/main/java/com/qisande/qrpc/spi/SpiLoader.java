@@ -1,7 +1,7 @@
-package com.qisande.yurpc.spi;
+package com.qisande.qrpc.spi;
 
 import cn.hutool.core.io.resource.ResourceUtil;
-import com.qisande.yurpc.serializer.Serializer;
+import com.qisande.qrpc.serializer.Serializer;
 import lombok.extern.slf4j.Slf4j;
 
 import java.io.BufferedReader;

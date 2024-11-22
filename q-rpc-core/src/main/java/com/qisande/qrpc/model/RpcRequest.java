@@ -1,6 +1,6 @@
-package com.qisande.yurpc.model;
+package com.qisande.qrpc.model;
 
-import com.qisande.yurpc.constant.RpcConstant;
+import com.qisande.qrpc.constant.RpcConstant;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

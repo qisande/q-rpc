@@ -1,6 +1,6 @@
-package com.qisande.yurpc.loadbalancer;
+package com.qisande.qrpc.loadbalancer;
 
-import com.qisande.yurpc.spi.SpiLoader;
+import com.qisande.qrpc.spi.SpiLoader;
 
 /**
  * @author qisan

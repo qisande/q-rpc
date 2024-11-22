@@ -1,8 +1,8 @@
-package com.qisande.yurpc.springboot.starter.annotation;
+package com.qisande.qrpc.springboot.starter.annotation;
 
-import com.qisande.yurpc.springboot.starter.bootstrap.RpcConsumerBootstrap;
-import com.qisande.yurpc.springboot.starter.bootstrap.RpcInitBootstrap;
-import com.qisande.yurpc.springboot.starter.bootstrap.RpcProviderBootstrap;
+import com.qisande.qrpc.springboot.starter.bootstrap.RpcConsumerBootstrap;
+import com.qisande.qrpc.springboot.starter.bootstrap.RpcInitBootstrap;
+import com.qisande.qrpc.springboot.starter.bootstrap.RpcProviderBootstrap;
 import org.springframework.context.annotation.Import;
 
 import java.lang.annotation.ElementType;

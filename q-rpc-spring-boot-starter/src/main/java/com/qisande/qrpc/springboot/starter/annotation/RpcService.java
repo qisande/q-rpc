@@ -1,6 +1,6 @@
-package com.qisande.yurpc.springboot.starter.annotation;
+package com.qisande.qrpc.springboot.starter.annotation;
 
-import com.qisande.yurpc.constant.RpcConstant;
+import com.qisande.qrpc.constant.RpcConstant;
 import org.springframework.stereotype.Component;
 
 import java.lang.annotation.ElementType;

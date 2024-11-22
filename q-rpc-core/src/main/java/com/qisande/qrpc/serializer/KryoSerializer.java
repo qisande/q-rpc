@@ -1,4 +1,4 @@
-package com.qisande.yurpc.serializer;
+package com.qisande.qrpc.serializer;
 
 import com.esotericsoftware.kryo.Kryo;
 import com.esotericsoftware.kryo.io.Input;

@@ -1,14 +1,14 @@
-package com.qisande.yurpc.bootstrap;
+package com.qisande.qrpc.bootstrap;
 
-import com.qisande.yurpc.RpcApplication;
-import com.qisande.yurpc.config.RegistryConfig;
-import com.qisande.yurpc.config.RpcConfig;
-import com.qisande.yurpc.model.ServiceMetaInfo;
-import com.qisande.yurpc.model.ServiceRegisterInfo;
-import com.qisande.yurpc.registry.LocalRegistry;
-import com.qisande.yurpc.registry.Registry;
-import com.qisande.yurpc.registry.RegistryFactory;
-import com.qisande.yurpc.server.tcp.VertxTcpServer;
+import com.qisande.qrpc.RpcApplication;
+import com.qisande.qrpc.config.RegistryConfig;
+import com.qisande.qrpc.config.RpcConfig;
+import com.qisande.qrpc.model.ServiceMetaInfo;
+import com.qisande.qrpc.model.ServiceRegisterInfo;
+import com.qisande.qrpc.registry.LocalRegistry;
+import com.qisande.qrpc.registry.Registry;
+import com.qisande.qrpc.registry.RegistryFactory;
+import com.qisande.qrpc.server.tcp.VertxTcpServer;
 
 import java.util.List;
 

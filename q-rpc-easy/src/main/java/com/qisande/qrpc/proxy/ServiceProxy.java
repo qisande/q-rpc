@@ -1,11 +1,11 @@
-package com.qisande.yurpc.proxy;
+package com.qisande.qrpc.proxy;
 
 import cn.hutool.http.HttpRequest;
 import cn.hutool.http.HttpResponse;
-import com.qisande.yurpc.model.RpcRequest;
-import com.qisande.yurpc.model.RpcResponse;
-import com.qisande.yurpc.serializer.JdkSerializer;
-import com.qisande.yurpc.serializer.Serializer;
+import com.qisande.qrpc.model.RpcRequest;
+import com.qisande.qrpc.model.RpcResponse;
+import com.qisande.qrpc.serializer.JdkSerializer;
+import com.qisande.qrpc.serializer.Serializer;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

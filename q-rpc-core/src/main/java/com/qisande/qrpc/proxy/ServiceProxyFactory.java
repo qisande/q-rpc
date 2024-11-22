@@ -1,7 +1,7 @@
-package com.qisande.yurpc.proxy;
+package com.qisande.qrpc.proxy;
 
-import com.qisande.yurpc.RpcApplication;
-import com.qisande.yurpc.utils.ConfigUtils;
+import com.qisande.qrpc.RpcApplication;
+import com.qisande.qrpc.utils.ConfigUtils;
 
 import java.lang.reflect.Proxy;
 

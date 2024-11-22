@@ -1,9 +1,9 @@
-package com.qisande.yurpc.springboot.starter.bootstrap;
+package com.qisande.qrpc.springboot.starter.bootstrap;
 
-import com.qisande.yurpc.RpcApplication;
-import com.qisande.yurpc.config.RpcConfig;
-import com.qisande.yurpc.server.tcp.VertxTcpServer;
-import com.qisande.yurpc.springboot.starter.annotation.EnableRpc;
+import com.qisande.qrpc.RpcApplication;
+import com.qisande.qrpc.config.RpcConfig;
+import com.qisande.qrpc.server.tcp.VertxTcpServer;
+import com.qisande.qrpc.springboot.starter.annotation.EnableRpc;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.support.BeanDefinitionRegistry;
 import org.springframework.context.annotation.ImportBeanDefinitionRegistrar;

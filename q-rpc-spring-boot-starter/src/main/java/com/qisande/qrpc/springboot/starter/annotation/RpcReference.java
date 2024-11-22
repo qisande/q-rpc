@@ -1,9 +1,9 @@
-package com.qisande.yurpc.springboot.starter.annotation;
+package com.qisande.qrpc.springboot.starter.annotation;
 
-import com.qisande.yurpc.constant.RpcConstant;
-import com.qisande.yurpc.fault.retry.RetryStrategyKeys;
-import com.qisande.yurpc.fault.tolerant.TolerantStrategyKeys;
-import com.qisande.yurpc.loadbalancer.LoadBalancerKeys;
+import com.qisande.qrpc.constant.RpcConstant;
+import com.qisande.qrpc.fault.retry.RetryStrategyKeys;
+import com.qisande.qrpc.fault.tolerant.TolerantStrategyKeys;
+import com.qisande.qrpc.loadbalancer.LoadBalancerKeys;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

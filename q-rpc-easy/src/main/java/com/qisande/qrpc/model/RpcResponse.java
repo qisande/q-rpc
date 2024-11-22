@@ -1,4 +1,4 @@
-package com.qisande.yurpc.model;
+package com.qisande.qrpc.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

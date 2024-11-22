@@ -1,4 +1,4 @@
-package com.qisande.yurpc.registry;
+package com.qisande.qrpc.registry;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

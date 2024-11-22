@@ -1,4 +1,4 @@
-package com.qisande.yurpc.config;
+package com.qisande.qrpc.config;
 
 import lombok.Data;
 
